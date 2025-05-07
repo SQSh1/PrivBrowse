@@ -1,4 +1,4 @@
-[Persian 🇮🇷](./README.fa.md)
+
 
 <a href="https://github.com/uazo/cromite/releases/latest">
   <img src="https://img.shields.io/github/v/release/uazo/cromite" alt="current Cromite release" title="current Cromite release" />
@@ -232,7 +232,7 @@ Each individual patch contains specific information on the licence used.
 ### 📄 Read this in [Persian 🇮🇷](README.fa.md)
 
 ---
-### 🙌 Contributors
+###  Contributors
 
 We proudly preserve original contributions and respect all upstream authors. This project is a soft fork and tribute to open source efforts, with focused improvements on accessibility and usability.
 
