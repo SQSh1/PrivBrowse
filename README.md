@@ -204,18 +204,18 @@ Each individual patch contains specific information on the licence used.
 
 ## Key Features (in progress)
 
-- 🔐 Simplified and user-friendly **privacy settings**
-- 🌐 Built-in **User-Agent manager**
+-  Simplified and user-friendly **privacy settings**
+-  Built-in **User-Agent manager**
   - Use default curated UA strings (mobile & desktop)
   - Or set a custom UA manually (like Cromite)
-- 🧩 **Script injector** support (like Cromite)
-- 🕑 Timezone override (currently works well)
-- ⬇️ **Custom download link injector** – use your own downloader
-- 💡 Cleaner UI and removal of unnecessary options
-- 🚀 Full proxy support (PAC, HTTP, SOCKS, etc.)
+-  **Script injector** support (like Cromite)
+-  Timezone override (currently works well)
+-  **Custom download link injector** – use your own downloader
+-  Cleaner UI and removal of unnecessary options
+-  Full proxy support (PAC, HTTP, SOCKS, etc.)
   - Focus on **open/free proxies**
   - Especially optimized for **restricted regions**
-- 🎨 New app icon & aesthetic improvements
+-  New app icon & aesthetic improvements
 
 ## Future Plans
 - Maintain full compatibility with Android 8+
