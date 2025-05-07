@@ -1,3 +1,5 @@
+[Persian 🇮🇷](./README.fa.md)
+
 <a href="https://github.com/uazo/cromite/releases/latest">
   <img src="https://img.shields.io/github/v/release/uazo/cromite" alt="current Cromite release" title="current Cromite release" />
 </a>
@@ -193,3 +195,45 @@ Cromite is published under [GNU GPL v3](./LICENSE).
 The patches published as part of the Bromite project are released under GNU GPL v3 only.
 Cromite specific patches are under the GNU GPL-2+ licence.
 Each individual patch contains specific information on the licence used.
+---
+
+## 📌 Project Enhancements by SQ (PrivBrowse Fork)
+# PrivBrowse
+
+**PrivBrowse** is a Chromium-based privacy-focused Android browser inspired by [Cromite](https://github.com/uazo/cromite), with enhanced user control, secure proxy support, and optimized for censored environments.
+
+## Key Features (in progress)
+
+- 🔐 Simplified and user-friendly **privacy settings**
+- 🌐 Built-in **User-Agent manager**
+  - Use default curated UA strings (mobile & desktop)
+  - Or set a custom UA manually (like Cromite)
+- 🧩 **Script injector** support (like Cromite)
+- 🕑 Timezone override (currently works well)
+- ⬇️ **Custom download link injector** – use your own downloader
+- 💡 Cleaner UI and removal of unnecessary options
+- 🚀 Full proxy support (PAC, HTTP, SOCKS, etc.)
+  - Focus on **open/free proxies**
+  - Especially optimized for **restricted regions**
+- 🎨 New app icon & aesthetic improvements
+
+## Future Plans
+- Maintain full compatibility with Android 8+
+- Efficient builds with size optimizations
+- Improved language & localization support
+- Proxy auto-config scripts for countries under restrictions
+
+## Project Structure
+
+![Project Structure](project-structure.png)
+
+---
+
+### 📄 Read this in [Persian 🇮🇷](README.fa.md)
+
+---
+### 🙌 Contributors
+
+We proudly preserve original contributions and respect all upstream authors. This project is a soft fork and tribute to open source efforts, with focused improvements on accessibility and usability.
+
+---
